@@ -19,3 +19,4 @@ ClickTargetGame is a simple 2D click target game developed using Unity. The goal
 
 - Before you can run the game, you need to have **Unity** installed on your system. You can download Unity from the [official Unity website](https://unity.com/).
 - Download, extract file, and enjoy the game
+- Password file: viqram
